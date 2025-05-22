@@ -1,0 +1,6 @@
+{
+  "name": "Dairy Collection Manager",
+  "description": "A web application to manage dairy collection records for farmers, including milk entries, payments, lactometer rate configurations, and reporting. This is a web application adaptation of an Android app request and uses browser localStorage for data storage.",
+  "requestFramePermissions": ["modal"],
+  "prompt": ""
+}
